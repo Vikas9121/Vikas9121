@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/vikas-gunduvikas">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://vikas-portfolio.com">
+  <a href="https://www.vikasgundu.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=react" alt="Portfolio" />
   </a>
   <a href="mailto:vikkasmanitejh@gmail.com">
@@ -99,44 +99,21 @@ I'm a passionate full stack developer with a knack for creating elegant solution
 ## 🏆 Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Inventory Management System (IMS)</h3>
-        <div align="center">
-          <a href="https://github.com/Vikas9121/IMS" target="_blank">
-            <img src="https://raw.githubusercontent.com/Vikas9121/IMS/master/frontend/public/logo.png" width="400" alt="IMS Project"/>
-          </a>
-          <p>
-            <a href="https://github.com/Vikas9121/IMS" target="_blank">
-              <img src="https://img.shields.io/badge/Code-View_Repository-green?style=for-the-badge&logo=github"/>
-            </a>
-            <a href="https://ims-dashboard.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Visit_Demo-blue?style=for-the-badge&logo=vercel"/>
-            </a>
-          </p>
-          <p><strong>React, TypeScript, Django, PostgreSQL, AWS</strong> - A comprehensive inventory management solution with AI-powered analytics for stock optimization and sales forecasting.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">E-Commerce Platform</h3>
-        <div align="center">
-          <a href="https://github.com/Vikas9121/ecommerce" target="_blank">
-            <img src="https://media.giphy.com/media/3o6Zt4j96fDG4XzO0w/giphy.gif" width="400" alt="E-Commerce Project"/>
-          </a>
-          <p>
-            <a href="https://github.com/Vikas9121/ecommerce" target="_blank">
-              <img src="https://img.shields.io/badge/Code-View_Repository-green?style=for-the-badge&logo=github"/>
-            </a>
-            <a href="https://ecommerce-demo.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Visit_Demo-blue?style=for-the-badge&logo=vercel"/>
-            </a>
-          </p>
-          <p><strong>React, Redux, Node.js, MongoDB</strong> - A full-featured e-commerce platform with product catalog, shopping cart, payment integration, and order management.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <h3 align="center">Inventory Management System (IMS)</h3>
+  <div align="center">
+    <a href="https://github.com/Vikas9121/IMS" target="_blank">
+      <img src="https://raw.githubusercontent.com/Vikas9121/IMS/master/frontend/public/logo.png" width="400" alt="IMS Project"/>
+    </a>
+    <p>
+      <a href="https://github.com/Vikas9121/IMS" target="_blank">
+        <img src="https://img.shields.io/badge/Code-View_Repository-green?style=for-the-badge&logo=github"/>
+      </a>
+      <a href="https://ims-dashboard.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Visit_Demo-blue?style=for-the-badge&logo=vercel"/>
+      </a>
+    </p>
+    <p><strong>React, TypeScript, Django, PostgreSQL, AWS</strong> - A comprehensive inventory management solution with AI-powered analytics for stock optimization and sales forecasting.</p>
+  </div>
 </div>
 
 ---
@@ -154,19 +131,6 @@ I'm a passionate full stack developer with a knack for creating elegant solution
 
 ---
 
-## 🔥 My Coding Journey
-
-```text
-2018 - Started learning programming with Python
-2019 - Built my first web application using Django
-2020 - Expanded to frontend development with React
-2021 - Worked on cloud deployments with AWS
-2022 - Developed AI-powered inventory management system
-2023 - Contributing to open source and mentoring junior developers
-```
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -179,7 +143,7 @@ I'm a passionate full stack developer with a knack for creating elegant solution
   <a href="mailto:vikkasmanitejh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://vikas-portfolio.com">
+  <a href="https://www.vikasgundu.com">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
